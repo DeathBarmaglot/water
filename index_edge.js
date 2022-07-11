@@ -123,7 +123,7 @@ var symbols = {
                 rect: ['3px', '59px','244px','143px','auto', 'auto'],
                 text: "Виробництво <br>та розлив",
                 align: "center",
-                text-transform: "capitalize",
+                textTransform: "capitalize",
                 font: ['Arial, Helvetica, sans-serif', 30, "rgba(255,255,255,1.00)", "900", "none", "normal"],
                 transform: [[],[],[],['0.8']]
             }],
